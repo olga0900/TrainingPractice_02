@@ -1,0 +1,13 @@
+D:\работы\TrainingPractice_02\bin\Debug\TrainingPractice_02.exe.config
+D:\работы\TrainingPractice_02\bin\Debug\TrainingPractice_02.exe
+D:\работы\TrainingPractice_02\bin\Debug\TrainingPractice_02.pdb
+D:\работы\TrainingPractice_02\obj\Debug\TrainingPractice_02.csproj.AssemblyReference.cache
+D:\работы\TrainingPractice_02\obj\Debug\TrainingPractice_02.csproj.SuggestedBindingRedirects.cache
+D:\работы\TrainingPractice_02\obj\Debug\TrainingPractice_02.Form1.resources
+D:\работы\TrainingPractice_02\obj\Debug\TrainingPractice_02.Properties.Resources.resources
+D:\работы\TrainingPractice_02\obj\Debug\TrainingPractice_02.csproj.GenerateResource.cache
+D:\работы\TrainingPractice_02\obj\Debug\TrainingPractice_02.csproj.CoreCompileInputs.cache
+D:\работы\TrainingPractice_02\obj\Debug\TrainingPractice_02.exe
+D:\работы\TrainingPractice_02\obj\Debug\TrainingPractice_02.pdb
+D:\работы\TrainingPractice_02\obj\Debug\TrainingPractice_02.Form4.resources
+D:\работы\TrainingPractice_02\obj\Debug\TrainingPractice_02.Form5.resources
